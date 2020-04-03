@@ -9,6 +9,8 @@ Repositori corresponent als exercicis del [Repte 2] de M17-UF2.
 
 ## Continguts
 * Exercici 2
+* Exercici 3
+* Exercici 4
 
 ## Comentaris sobre el Repte
 Es pot trobar tota la informació relativa a les preguntes o aclaracions del [Repte] en el codi corresponent a cada [exercici](#continguts).
