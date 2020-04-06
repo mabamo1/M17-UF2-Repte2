@@ -12,7 +12,7 @@ Repositori corresponent als exercicis del [Repte 2] de M17-UF2.
 * [Exercici 3]
 * [Exercici 4]
 * [Exercici 5]
-* [Exercici 6](#exercici%206): En aquest README es troba la resposta a aquest exercici.
+* [Exercici 6](#exercici-6): En aquest README es troba la resposta a aquest exercici.
 
 ## Comentaris sobre el Repte
 Es pot trobar tota la informació relativa a les preguntes o aclaracions del [Repte] en el codi corresponent a cada [exercici](#continguts).
